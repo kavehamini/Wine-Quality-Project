@@ -67,3 +67,11 @@ Making a bar plot of the number of wines in each quality.
 <p align="center">
 <img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_13.png">
 </p>
+In the case of both datasets (red and white wines), we have the most number of wines with the qualities 5, 6 and 7.
+
+#### Quality and alcohol
+Making a bar plot of the quality of the wines versus their average alcohol content.
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_14.png">
+</p>
+As observed in the graph above, the wines of qualities 3, 4, 5 and 6 in general have an average alcohol contect of around 10%, whereas higher quality wines (quality 7, 8 and 9) have higher alcohol content (11-12%).

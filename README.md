@@ -56,3 +56,15 @@ Plotting out distributions for the variablesin white wine dataset to check the n
 </p>
 pH seems to be distributed normally. alcohol, sulphates, total slfur dioxide and fixed acidity are fairly normally distributed. All other features have a right skewness. Density in red wine dataset also seems to be fairly normally distrubuted.
 
+## Checking the outliers in data
+
+Making boxplots to visualize the outliers in the features in red wine dataset.
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_9.png">
+</p>
+
+Making boxplots to visualize the outliers in the features in white wine dataset
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_10.png">
+</p>
+Except for the feature 'alcohol' in white wine dataset, all other features in both datasets have outliers.

@@ -47,6 +47,9 @@ Among the features in the white wine dataset, density and residual sugars (0.84)
 In white wine dataset, 'alcohol', 'pH' and 'sulphates' have the highest positive correlations with the quality and 'density', 'chlorides' and 'volatile acidity' have the highest negative correlation with the quality.
 
 Plotting out distributions for the variables in red wine dataset to check the normality of the data.
-<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_7.png=250x250">
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_7.png">
+</p>
+
 
 

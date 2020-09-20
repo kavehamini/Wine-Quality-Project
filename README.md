@@ -48,11 +48,11 @@ In white wine dataset, 'alcohol', 'pH' and 'sulphates' have the highest positive
 
 Plotting out distributions for the variables in red wine dataset to check the normality of the data.
 <p align="center">
-<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_7.png">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_7.png" width="500" height="100">
 </p>
 Plotting out distributions for the variablesin white wine dataset to check the normality of the data.
 <p align="center">
-<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_8.png">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_8.png" width="500" height="100">
 </p>
 pH seems to be distributed normally. alcohol, sulphates, total slfur dioxide and fixed acidity are fairly normally distributed. All other features have a right skewness. Density in red wine dataset also seems to be fairly normally distrubuted.
 

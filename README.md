@@ -75,3 +75,9 @@ Creating pairplots to check the correlations in red wine dataset.
 <p align="center">
 <img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_11.png">
 </p>
+
+Creating pairplots to check the correlations in white wine dataset.
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_12.png">
+</p>
+The scatter plots in the pairplots above show the correlations and dependence of different features on each other.

@@ -48,7 +48,7 @@ In white wine dataset, 'alcohol', 'pH' and 'sulphates' have the highest positive
 
 Plotting out distributions for the variables in red wine dataset to check the normality of the data.
 <p align="center">
-<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_7.png" width="500" height="500">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_7.png" height="500">
 </p>
 Plotting out distributions for the variablesin white wine dataset to check the normality of the data.
 <p align="center">

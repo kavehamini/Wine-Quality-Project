@@ -68,3 +68,10 @@ Making boxplots to visualize the outliers in the features in white wine dataset
 <img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_10.png">
 </p>
 Except for the feature 'alcohol' in white wine dataset, all other features in both datasets have outliers.
+
+## Checking the correlations among the features
+
+Creating pairplots to check the correlations in red wine dataset.
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_11.png">
+</p>

@@ -32,3 +32,16 @@ Checking the correlation bertween the features in red wine dataset.
 Among the features in the red wine dataset, citric acid and fixed acidity (0.67), density and fixed acidity (0.67) and total sulfure dioxide and free sulfure dioxide (0.67) have the highest positive correlations and citric acid and volatile acidity (-0.55), citric acid and pH (-0.54), alcohol and density (-0.5) and fixed acidity and pH (-0.68) have the highest negative correlations.
 
 In red wine dataset, 'alcohol', 'sulphates' and 'citric acid' have the highest positive correlations with the quality and 'volatile acidity', 'total sulfure dioxide' and 'density' have the highest negative correlation with the quality.
+
+Checking the correlation bertween the features in white wine dataset
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_5.png">
+</p>
+
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_6.png">
+</p>
+
+Among the features in the white wine dataset, density and residual sugars (0.84), density and total sulfure oxide (0.51) and total sulfure dioxide and free sulfure dioxide (0.62) have the highest positive correlations. On the other hand alcohol and density (-0.78) have the highest negative correlation.
+
+In white wine dataset, 'alcohol', 'pH' and 'sulphates' have the highest positive correlations with the quality and 'density', 'chlorides' and 'volatile acidity' have the highest negative correlation with the quality.

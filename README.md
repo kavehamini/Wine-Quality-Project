@@ -19,3 +19,12 @@ Checking for null values in the columns using a heatmap
 <img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_2.png">
 </p>
 In the columns in any of the red wine or white wine datasets we do not have any null values. In case there was any null value there would be a different shade of blue for that perticular value.
+
+Checking the correlation bertween the features in red wine dataset.
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_3.png">
+</p>
+
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_4.png">
+</p>

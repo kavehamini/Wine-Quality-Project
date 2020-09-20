@@ -103,3 +103,10 @@ Making a bar plot of the quality of the wines versus their average sulphates con
 <img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_18.png">
 </p>
 All white wines have the same level of sulphates (around 5) however for red wines the higher the sulphate content of the wine, the higher its quality.
+
+#### Quality and chlorides
+Making a bar plot of the quality of the wines versus their average chloride content.
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_19.png">
+</p>
+In the case of both red and white wines the lower the chlorides content of the wine, the higher its quality. Also red wines have much higher chlorides content in comparison to white wines.

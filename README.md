@@ -75,3 +75,31 @@ Making a bar plot of the quality of the wines versus their average alcohol conte
 <img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_14.png">
 </p>
 As observed in the graph above, the wines of qualities 3, 4, 5 and 6 in general have an average alcohol contect of around 10%, whereas higher quality wines (quality 7, 8 and 9) have higher alcohol content (11-12%).
+
+#### Quality and pH
+Making a bar plot of the quality of the wines versus their average pH.
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_15.png">
+</p>
+The average pH of all wines appears to be between 3 and 3.5.
+
+#### Quality and residual sugars
+Making a bar plot of the quality of the wines versus their average residual sugar.
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_16.png">
+</p>
+In general white wines have more residual sugars than red wines. Red wines all have similar residual sugars (around 2.5) however average residual sugar content of white wines varies between 4 and 7. The quality of wines however does not show much dependence on the residual sugars content.
+
+#### Quality and citric acid
+Making a bar plot of the quality of the wines versus their average citric acid.
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_17.png">
+</p>
+For white wines, the citric acid does not seem to be playing a significant role in quality although white wines of quality 9 have higher citric acid content. However, in the case of red wines the higher the citric acid content, the higher the quality.
+
+#### Quality and sulphates
+Making a bar plot of the quality of the wines versus their average sulphates content.
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_18.png">
+</p>
+All white wines have the same level of sulphates (around 5) however for red wines the higher the sulphate content of the wine, the higher its quality.

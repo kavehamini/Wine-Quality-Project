@@ -116,3 +116,21 @@ Plotting the distribution of quality levels of wines (red and white) in the data
 <p align="center">
 <img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_20.png">
 </p>
+
+
+## Summary and Conclusion
+
+Among the features in the red wine dataset, citric acid and fixed acidity (0.67), density and fixed acidity (0.67) and total sulfure dioxide and free sulfure dioxide (0.67) have the highest positive correlations and citric acid and volatile acidity (-0.55), citric acid and pH (-0.54), alcohol and density (-0.5) and fixed acidity and pH (-0.68) have the highest negative correlations.
+
+In red wine dataset, 'alcohol', 'sulphates' and 'citric acid' have the highest positive correlations with the quality and 'volatile acidity', 'total sulfure dioxide' and 'density' have the highest negative correlation with the quality. Among the features in the white wine dataset, density and residual sugars (0.84), density and total sulfure oxide (0.51) and total sulfure dioxide and free sulfure dioxide (0.62) have the highest positive correlations. On the other hand alcohol and density (-0.78) have the highest negative correlation. In white wine dataset, 'alcohol', 'pH' and 'sulphates' have the highest positive correlations with the quality and 'density', 'chlorides' and 'volatile acidity' have the highest negative correlation with the quality.
+
+pH seems to be distributed normally. alcohol, sulphates, total slfur dioxide and fixed acidity are fairly normally distributed. All other features have a right skewness.
+
+Except for the feature 'alcohol' in white wine dataset, all other features in both datasets have outliers. The scatter plots in the pairplots above show the correlations and dependence of different features on each other.
+
+In the case of both datasets (red and white wines), we have the most number of wines with the qualities 5, 6 and 7. As observed in the graph above, the wines of qualities 3, 4, 5 and 6 in general have an average alcohol contect of around 10%, whereas higher quality wines (quality 7, 8 and 9) have higher alcohol content (11-12%). The average pH of all wines appears to be between 3 and 3.5. In general white wines have more residual sugars than red wines. Red wines all have similar residual sugars (around 2.5) however average residual sugar content of white wines varies between 4 and 7. The quality of wines however does not show much dependence on the residual sugars content. For white wines, the citric acid does not seem to be playing a significant role in quality although white wines of quality 9 have higher citric acid content. However, in the case of red wines the higher the citric acid content, the higher the quality.
+
+All white wines have the same level of sulphates (around 5) however for red wines the higher the sulphate content of the wine, the higher its quality. In the case of both red and white wines the lower the chlorides content of the wine, the higher its quality. Also red wines have much higher chlorides content in comparison to white wines.
+
+Among the two regression models tested, random forest regressor was better and among the classification models tested random forest classifier responded better.
+

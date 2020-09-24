@@ -110,3 +110,9 @@ Making a bar plot of the quality of the wines versus their average chloride cont
 <img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_19.png">
 </p>
 In the case of both red and white wines the lower the chlorides content of the wine, the higher its quality. Also red wines have much higher chlorides content in comparison to white wines.
+
+#### Percentage of wines by quality
+Plotting the distribution of quality levels of wines (red and white) in the dataset
+<p align="center">
+<img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_20.png">
+</p>

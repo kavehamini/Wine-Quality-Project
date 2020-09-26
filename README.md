@@ -116,6 +116,7 @@ Plotting the distribution of quality levels of wines (red and white) in the data
 <p align="center">
 <img src="https://github.com/kavehamini/Wine-Quality-Project/blob/master/figure_20.png">
 </p>
+The quality level 6 has the most number of wines (43.65%) and quality level 9 (0.08%) has the least number of wines in the dataset.
 
 
 ## Summary and Conclusion
